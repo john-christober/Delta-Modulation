@@ -7,7 +7,9 @@ processing. NumPy: A powerful numerical library in Python for performing array-b
 operations and mathematical computations. Matplotlib: A plotting library for generating
 high-quality graphs and visualizations of data, essentialfor demonstrating the sampling
 process.
+
 # Program:
+```
 #DELTA MODULATION 
 import numpy as np
 import matplotlib.pyplot as plt
@@ -76,6 +78,7 @@ plt.grid()
 
 plt.tight_layout()
 plt.show()
+```
 # Output Waveform:
 ![image](https://github.com/user-attachments/assets/9003307b-aebe-473f-b5cb-9a6eb6cb6700)
 # Results:
